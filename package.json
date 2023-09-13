@@ -1,0 +1,8 @@
+{
+	"scripts": {  
+		"start": "./express.js"
+	},
+	"dependencies": {
+		"figlet": "^1.6.0"
+	}
+}
