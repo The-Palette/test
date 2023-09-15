@@ -1,8 +1,9 @@
 {
-	"scripts": {  
+	"scripts": {
 		"start": "./express.js"
 	},
 	"dependencies": {
+		"express": "^4.18.2",
 		"figlet": "^1.6.0"
 	}
 }
